@@ -195,7 +195,7 @@
 
       .featurette {
         height: auto;
-        padding: 0;
+        padding: 5;
       }
       .featurette-image.pull-left,
       .featurette-image.pull-right {
@@ -258,8 +258,15 @@
       .featurette-heading {
         font-size: 30px;
       }
+      .featurette-heading3 {
+        font-size: 25px;
+      }
       .featurette .lead {
         font-size: 18px;
+        line-height: 1.5;
+      }
+      .featurette .body {
+        font-size: 16px;
         line-height: 1.5;
       }
 
