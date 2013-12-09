@@ -1,9 +1,9 @@
-http://betanyc.org
+http://NYCroadmap.us
 ===================
 
-Landing page for BetaNYC.org
+This is the People's Roadmap to a Digital New York City landing page. For the past year, the BetaNYC community has met and worked on this document to properly frame how technology should be build. 
 
-Note that branch `gh-pages` is what shows on production BetaNYC.org. Master does nothing.
+Note that branch `gh-pages` is what shows on production http://NYCroadmap.us. Master does nothing.
 
 #How to Code for this Repo
 Option A: Fork, Edit, then Pull Request when ready.
